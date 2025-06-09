@@ -23,8 +23,9 @@ Welcome to my GitHub profile! Here you'll find projects and experiments built wi
 </p>
 
 ---
-  
-📫 Reach me at: [contact@anssij.com](mailto:contact@anssij.com)
+
+🌱 [Personal website](https://anssij.com)  
+📫 [contact@anssij.com](mailto:contact@anssij.com)
 
 <!--
 **[YourUsername]/[YourUsername]** is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
